@@ -4,8 +4,6 @@ import Header from "./components/layout/Header/Header";
 export default function Layout(){
 
     return<main>
-    {/* Header */}
-    <Header/>
 
     {/* Content */}
     <Outlet/>
